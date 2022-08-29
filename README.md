@@ -23,7 +23,7 @@ temperature and precipitation to see how common raining was.
 In the first image (fig 1.) we can see a table describing the temperature behaviour for the month of june, it ranges from 64 °F up to 85°F with a mean of 71°F, themean
 is closer to the minimum but it´s still a good temperature to go to the beach and start surfing and maybe get some ice cream. 
 
-![june_table](images/june_table.png "june_table")
+![june_table2](images/june_table2.png "june_table2")
 
 We can see that the temperature had something similar to a gaussian bell with some peaks in the temperature 73 °F, 74°F and 86°F all of them being good temperature to go
 the beach. And to finish with june we have the figure 3 that represent the correlation between temperature and precpitation, we can observe that with less temperature
@@ -45,7 +45,7 @@ the data was located between 73°F to 77°F making it the perfect weather to be 
 In the histogram we can see that it had a almost like simetric distribution but a little bit skewed to the right 
 
 
-![December_hist](images/December_hist.png "December_hist")
+![December_hist2](images/December_hist2.png "December_hist2")
 
 If we compare it with precipitation there we have a special sighting, in the more regular temperature (70°F to 73°F) there is a more likely probability for it to rain
 so for surfing this might not be a problem but for ice cream it may decrease the number of sells
